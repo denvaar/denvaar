@@ -1,4 +1,6 @@
-### Hi there 👋
+### I love programming computers. I work at [Underbelly](https://underbelly.is/)!
+
+### Read my [Programming Journal](https://denvaar.github.io/articles/index.html).
 
 <!--
 **denvaar/denvaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
