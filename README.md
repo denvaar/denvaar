@@ -1,5 +1,3 @@
-### I love programming computers. I work at [Underbelly](https://underbelly.is/)!
-
 ### Read my [Programming Journal](https://denvaar.github.io/articles/index.html).
 
 <!--
